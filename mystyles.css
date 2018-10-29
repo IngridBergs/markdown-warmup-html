@@ -1,0 +1,37 @@
+/*CSS file */
+
+
+body{
+  font-family: sans-serif;Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #000;
+}
+
+
+h2{
+  color: #480CFF;
+  margin-left:20px;
+}
+
+
+p{
+  font-family: cursive;
+}
+
+ul{
+  list-style-type: none;
+  margin-left: 200px;
+}
+
+ol{
+  color: #870CE8;
+}
+
+
+a:active{
+  color: #E8800C;
+}
+
+a:visited{
+  color: #E8811C;
+}
